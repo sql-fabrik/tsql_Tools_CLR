@@ -1,7 +1,7 @@
 ----  Tools_CLR
 ----  Certificate
 SELECT @@servername
---     BWTDESQL01\BI
+--     SQLserver\BI  ??
 
 
 use master
